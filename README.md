@@ -7,6 +7,7 @@
 因为自己懒，并且很多评论难以找到原作者，故一律不记录作者  
 创作时间记录评论发出时间，而不管句子实际被创作的时间。  
 来源一律是歌名（可以去搜啊）  
+感觉好评论都有点年头了。。。时代变了？  
 [官方项目地址](https://github.com/lz233/OneText_For_Android)
 [官方库](https://github.com/lz233/OneText_For_Android)
 ~~~
