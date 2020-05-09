@@ -3,8 +3,10 @@
 How'd you see this place?   
 内容全部由本人整理自网易云音乐的评论。  
 All content is compiled by me from reviews of NetEase Cloud Music.  
-作者要开学了，以后一直要周更了（  
-The author is going to go to school. I will update this project weekly.  
+~~作者要开学了，以后一直要周更了（~~  
+~~The author is going to go to school. I will update this project weekly.~~  
+作者已经开学了，所以现在开始周更  
+The author has started school, so it's time to start the weekly update.  
 # 我想说的 / Something I wang to say
 >排版原因，可能对部分文字进行修改。  
 >因为自己懒，并且很多评论难以找到原作者，故一律不记录作者  
